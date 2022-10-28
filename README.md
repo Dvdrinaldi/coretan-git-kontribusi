@@ -1,6 +1,6 @@
 # coretan-git-kontribusi
 ## Bagaimana cara berkontribusi di Proyek git
-### Bagaimana
+
 Berikut langkah-langkahnya secara singkat:
 
 1. Fork it!
