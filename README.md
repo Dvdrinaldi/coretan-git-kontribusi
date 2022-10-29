@@ -15,6 +15,7 @@ Berikut langkah-langkahnya secara singkat:
 3. Jika memang tidak tertera aturan kontribusi dan sang developer tidak merespon, anda bisa langsung melakukan fork proyek yang akan anda kontribusikan.
 4. Setelah selesai fork, maka repository akan masuk ke daftar repo milik anda.
 
+Sekarang ayo kita coba membuatnya...
 ----
 ### Time to GO CODE ;)
 
@@ -78,4 +79,5 @@ NB: gunakan `git --help` untuk melihat perintah-perintah git lainnya.
 11. Setelah di push, kita akan melakukan pull request dan membandingkan perubahan yang telah anda lakukan terhadap repo pusat. Anda juga bisa menyisipkan pesan untuk memberitahukan developer pemilik repo pusat tentang apa yang anda lakukan. Setelah yakin terhadap perubahan yang telah anda lakukan, silahkan pilih create pull request dan menunggu tanggapan dari pemilik repo pusat.
 
 semoga paham 
+
 ----
